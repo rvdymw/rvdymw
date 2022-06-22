@@ -2,7 +2,7 @@
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning Angular CLI, JavaScript
 - 💞️ I’m looking to collaborate on front-end projects
-- 📫 How to reach me - mateuszw.contact@gmail.com
+- 📫 How to reach me - mateuszw.contact@gmail.com, https://www.linkedin.com/in/mateusz-wal%C4%99ga-7a385a226/
 
 <!---
 rvdymw/rvdymw is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
