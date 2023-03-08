@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @rvdymw
+- 👋 Hi, I’m Mateusz
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning PHP, Symfony, MySQL
-- 💞️ I’m looking to collaborate on back-end projects
+- 🌱 I’m currently learning PHP, Symfony, Laravel,MySQL
+- 💞️ I’m looking to collaborate on web projects
 - 📫 How to reach me - mateuszw.contact@gmail.com, https://www.linkedin.com/in/mateusz-wal%C4%99ga-7a385a226/
 
 <!---
